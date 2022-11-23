@@ -6,4 +6,5 @@ Este curso esta desarrollado por INIA, para ayudar a los investigadores a desarr
 Objetivos: 
 * Determinar indices espectrales multiespectrales
 * Desarrollar codigos en JypterLab
+* Procesamiento imagenes multiespectral Landsat
 * Procesamiento de imagenes multiespectrales RPAS
